@@ -1,3 +1,3 @@
-function functionTest() {
-    console.log('TestBranch')
+function functionDeploy() {
+    console.log('DeployBranch')
 }
