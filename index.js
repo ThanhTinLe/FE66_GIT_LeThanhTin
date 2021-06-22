@@ -1,3 +1,3 @@
-function functionTest() {
-    console.log('TestBranch')
+function functionDev() {
+    console.log('DevBranch')
 }
