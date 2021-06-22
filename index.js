@@ -15,3 +15,7 @@ function functionCheckTask(){
 function functionDeploy() {
     console.log('DeployBranch')
 }
+function functionTestCompleted() {
+    console.log('testComplete')
+    
+}
