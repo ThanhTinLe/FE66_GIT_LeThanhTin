@@ -7,3 +7,7 @@ function functionDev() {
 function functionTest() {
     console.log('TestBranch')
 }
+
+function functionCheckTask(){
+    console.log('testTask')
+}
